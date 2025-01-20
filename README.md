@@ -1,8 +1,8 @@
-## Hi, I'm Ron!
+## Hi! I'm Ron 👋
 
-#### About me:
-I'm a CS student at the Hebrew University. For more, visit my LinkedIn!
+### About me:
 
+I'm a CS student at the Hebrew University. For more, you're welcome to visit my LinkedIn!
 
 #### Software Development Projects:
 
