@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm a CS student at the Hebrew University. For more, you're welcome to visit my LinkedIn!
+I'm a CS student at the Hebrew University. I'm currently looking for internship or work opportunities where I can contribute my skills while continuing to learn and grow in a dynamic environment.
 
 #### Software Development Projects:
 
