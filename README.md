@@ -20,7 +20,7 @@ I'm a CS student at the Hebrew University. I'm currently looking for internship 
 - Jack Compiler
 
 
-📫 How to reach me:
+## 📫 How to reach me:
 - LinkedIn:www.linkedin.com/in/ronket
 - Email: ron.keter@mail.huji.ac.il
 - Mobile: +972-543664787
