@@ -1,4 +1,31 @@
-## Hi there 👋
+## Hi, I'm Ron!
+
+#### About me:
+I'm a CS student at the Hebrew University. For more, visit my LinkedIn!
+
+
+#### Software Development Projects:
+
+**JavaScript**
+
+- todoList api
+
+**C/C++**
+
+- User thread library
+
+**Python**
+
+- gradient-descent-and-logistic-regression
+- Jack Compiler
+
+
+📫 How to reach me:
+- LinkedIn:www.linkedin.com/in/ronket
+- Email: ron.keter@mail.huji.ac.il
+- Mobile: +972-543664787
+
+
 
 <!--
 **ronket/ronket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
