@@ -13,6 +13,7 @@ I'm a CS student at the Hebrew University. I'm currently looking for internship 
 **C/C++**
 
 - User thread library
+- MapReduce
 
 **Python**
 
